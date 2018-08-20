@@ -1,0 +1,28 @@
+A. Crear base de datos en base a los requerimientos indicados.
+
+B. Checkpoints
+1. Antes de empezar a crear la base de datos deben leer todas las instrucciones, modelar la base y generar un diagrama que tendrán que adjuntar a las respuestas de este ejecrcicio.
+
+
+2. Ingresar 2 imágenes por usuario.
+
+
+3. Ingresar 3 likes por cada imagen.
+
+
+4. Ingresar 8 tags.
+
+
+5. Ingresar 3 tags por imagen.
+
+
+6. Crear una consulta que muestre el nombre de la imagen y la cantidad de likes que tiene esa imagen.
+
+
+7. Crear una consulta que muestre el nombre del usuario y los nombres de las fotos que le pertenecen.
+
+
+8. Crear una consulta que muestre el nombre del tag y la cantidad de imagenes asociadas a ese tag.
+
+
+Participantes: Manuel Olmos
